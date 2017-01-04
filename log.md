@@ -8,3 +8,10 @@
 
 **Link to work:** [Tribute Page](http://codepen.io/MikeOsa123/pen/ENKQbB)
 
+### Day 2: January 4th, 2017
+
+**Today's Progress**: Worked on my Tribute page a bit more and finally publicly shared it on the freeCodeCamp Facebook group. Went through some Javascript material covering loops, Arrays and Objects.
+
+**Thoughts:** Was very apprehensive about sharing my work on Facebook but the response seems very good so far and receptive. Need to carry out more pratical examples on loops to deepen my understanding.
+
+**Link to work:** [Tribute Page](http://codepen.io/MikeOsa123/full/ENKQbB/)
