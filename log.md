@@ -15,3 +15,11 @@
 **Thoughts:** Was very apprehensive about sharing my work on Facebook but the response seems very good so far and receptive. Need to carry out more pratical examples on loops to deepen my understanding.
 
 **Link to work:** [Tribute Page](http://codepen.io/MikeOsa123/full/ENKQbB/)
+
+### Day 3: January 5th, 2017
+
+**Today's Progress**: Managed to clear a number of exercises on freeCodeCamp in the JQuery section and work more on loops in Javascript.
+
+**Thoughts:** Defintely made a lot of progress today on Loops as the concept is becoming more clearer, the cloud of confusion has finally lifted.
+
+**Link to work:** [FCC](https://www.freecodecamp.com/challenges/target-even-numbered-elements-using-jquery)
