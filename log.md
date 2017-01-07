@@ -23,3 +23,11 @@
 **Thoughts:** Defintely made a lot of progress today on Loops as the concept is becoming more clearer, the cloud of confusion has finally lifted.
 
 **Link to work:** [FCC](https://www.freecodecamp.com/challenges/target-even-numbered-elements-using-jquery)
+
+### Day 4 & 5: January 6th - 7th, 2017
+
+**Today's Progress**: Worked through some Javascript tutorials focusing on the DOM, used Javascript to create Element and text nodes for my Portfolio page.
+
+**Thoughts:** Forgot to post yesterday but more or less carried on from what I was working yesterday on DOM. Using Javascript I can pretty much create my HTML structure with Javascript. I defintely have a better understanding what teh Document Object Model is about and how I can go about getting elements, changing and creating the DOM.
+
+**Link to work:** [Portfolio Page](http://codepen.io/MikeOsa123/pen/OWVaaz)
