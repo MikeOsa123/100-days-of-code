@@ -31,3 +31,11 @@
 **Thoughts:** Forgot to post yesterday but more or less carried on from what I was working yesterday on DOM. Using Javascript I can pretty much create my HTML structure with Javascript. I defintely have a better understanding what teh Document Object Model is about and how I can go about getting elements, changing and creating the DOM.
 
 **Link to work:** [Portfolio Page](http://codepen.io/MikeOsa123/pen/OWVaaz)
+
+### Day 6: January 8th, 2017
+
+**Today's Progress**: Today I focused on using Bootstrap for responsive websites and JQuery, made a start on the #FCC Portfolio project.
+
+**Thoughts:** Today was pretty productive in I actually made a start on the freeCodeCamp project building my Portfolio page. I used w3schools and getbootstrap to help me work on creating a fixed navigation bar that collapses for mobile devices. You can check these sites here [w3school](http://www.w3schools.com/bootstrap/bootstrap_navbar.asp), [getbootstrap](https://getbootstrap.com/components/#navbar).
+
+**Link to work:** [Portfolio Page](https://twitter.com/MikeOsa123/status/818148117812023299)
